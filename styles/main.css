@@ -26,6 +26,7 @@
 .apps__grid {
     display: grid;
     grid-auto-flow: dense;
+    gap: 5px;
 
     grid-template-columns: repeat(6, 50px);
     grid-auto-rows: 50px;
